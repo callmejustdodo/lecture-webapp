@@ -1,10 +1,10 @@
-# 강의용 웹앱 One Pager
+# DoClass One Pager
 
 > 초안 v6 · 2026-11-25 · 상세 요구사항은 [1_product_requirements_document.md](1_product_requirements_document.md)
 
 ## 1. 한 줄 요약
 
-AI·Claude 활용 강의를 결제부터 라이브, 다시 보기까지 한곳에서 하는 강의 플랫폼.
+**두클래스(DoClass)**: 듣기만 하는 게 아니라 직접 하는 클래스. AI·Claude 활용 강의를 결제부터 라이브, 실습, 다시 보기까지 한곳에서 하는 강의 플랫폼.
 
 ## 2. 타겟 커스터머
 

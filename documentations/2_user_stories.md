@@ -1,4 +1,4 @@
-# 강의용 웹앱 유저 스토리
+# DoClass 유저 스토리
 
 > 초안 v1 · 2026-11-25
 > 방향은 [0_one_pager.md](0_one_pager.md), 요구사항은 [1_product_requirements_document.md](1_product_requirements_document.md)를 본다.
